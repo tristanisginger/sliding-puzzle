@@ -1,0 +1,22 @@
+img{
+
+display:block; 
+margin: 0px;
+padding:0px;}
+
+
+div#container, div#container2 {
+clear:left;
+border:1px solid #888;}
+
+div {
+float:left;
+margin: 0px;
+padding:0px;
+border:1px solid #888;}
+
+
+div#square-3, div#square-6{
+
+	clear:left;
+}
